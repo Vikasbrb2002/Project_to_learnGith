@@ -17,3 +17,11 @@ footer{
     display: flex;
     justify-content: space-around;
 }
+#home-h1{
+    font-size: 100px;
+    color: red;
+}
+.abt{
+    color: black;
+    font-family: sans-serif;
+}
